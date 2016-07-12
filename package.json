@@ -1,0 +1,33 @@
+{
+  "name": "singlepageapplicationmean",
+  "version": "0.0.1",
+  "description": "A single page application in MEAN stack ",
+  "main": "server.js",
+  "dependencies": {
+     "express" : "~4.5.1",
+     "mongoose" : "~3.8.0",
+     "body-parser" : "~1.4.2",
+     "method-override" : "~2.0.2"
+   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomsterinc/SinglePageApplicationMEAN.git"
+  },
+  "keywords": [
+    "MEAN",
+    "javascript",
+    "MongoDB",
+    "AngularJS",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Maicon Giovani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doomsterinc/SinglePageApplicationMEAN/issues"
+  },
+  "homepage": "https://github.com/doomsterinc/SinglePageApplicationMEAN#readme"
+}
